@@ -1,2 +1,2 @@
-# browser_detector
-JS function to detect browser
+# browser_detector function
+JS function to detect browser, adds a class with the browser name in the body.
